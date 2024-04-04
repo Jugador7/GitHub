@@ -1,0 +1,9 @@
+SSH Protocol: Method to secure remote login
+Repository: Contains project folders
+Fork: Copy of a repository
+Pull Request: To request for review and approval
+Working Directory: Contains files and subdirectories
+Commit: Snapshot of a projects current state along with changes
+Branch: Separte line of development
+Merge: Combines changes form one branch to another.
+Clone: Local copy of the remote Git repository
