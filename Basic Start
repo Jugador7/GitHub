@@ -1,6 +1,7 @@
 git branch
 git branch NUEVA-RAMA
 git checkout NUEVA-RAMA
+// git checkout -b NUEVA-RAMA para hacer los dos pasos anteriores en uno solo
 git status
 git add index.html
 git commit -m "Mensaje"
