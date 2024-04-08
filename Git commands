@@ -47,6 +47,10 @@ git diff (shows the difference between the working directory and the last commit
 git diff HEAD~1 HEAD (shows the difference between the last and second-last commits)
 git diff <branch-1> <branch-2> (compares the specified branches)
 
+git fetch 
+
+git pull (hace fetch y merge al tiempo)
+
 git revert
 Description: It reverts a commit by applying a new commit. This will create a new commit that undoes the changes made by the last commit.
 Syntax: git revert HEAD
