@@ -1,0 +1,9 @@
+git branch
+git branch NUEVA-RAMA
+git checkout NUEVA-RAMA
+git status
+git add index.html
+git commit -m "Mensaje"
+git checkout main
+git merge NUEVA-RAMA
+gut push -u origin main
